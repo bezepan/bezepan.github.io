@@ -59,7 +59,7 @@ permalink: /sobre/
                               </div>
                               <div class="service_details">
                                    <h2 class="section_header skincolored"><b>Prduto</b>Qualificado<small>Venha experimentar</small></h2>
-                                   <a class="btn btn-primary" href="/{{ site.baseurl }}contato">Entre em contato &nbsp; <i class="fa fa-code-fork"></i></a> </div>
+                                   <a class="btn btn-primary" href="/{{ site.baseurl }}contato">Entre em contato &nbsp; </a> </div>
                          </div>
                     </div>
                </div>
