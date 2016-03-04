@@ -6481,13 +6481,29 @@ figure img {
 .bs-example-tabs .nav-tabs {
   margin-bottom: 15px;
 }
+
+/* MAPS */
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 /* =Our Team
 ------------ */
 .team_member {
   text-align: center;
   background-color: #000;
   background-color: #222222;
-  background: url(assets/images/backgrounds/wild_oliva_dark.png);
+  background: url(/assets/images/backgrounds/wild_oliva_dark.png);
   color: #cccccc;
   padding: 40px;
   -webkit-transition: all 500ms linear;
@@ -7015,7 +7031,7 @@ ul.portfolio_filters li .active a:hover {
   line-height: 22px;
 }
 .portfolio_masonry .portfolio_item a .overlay i {
-  background: url(assets/images/backgrounds/wild_oliva__light.png);
+  background: url(/assets/images/backgrounds/wild_oliva__light.png);
   border-radius: 50%;
   padding: 10px;
   line-height: 33px;
@@ -7057,7 +7073,7 @@ ul.portfolio_filters li .active a:hover {
   position: relative;
   left: 3px;
   top: 5px;
-  background: url(assets/images/portfolio/rating_stars.png);
+  background: url(/assets/images/portfolio/rating_stars.png);
 }
 .rating.r0 {
   background-position: 0 240px;
@@ -7335,7 +7351,7 @@ footer {
   margin-top: 40px;
   color: #fff;
   border-top: solid 2px #fff;
-  background: url(assets/images/backgrounds/wild_oliva_dark.png);
+  background: url(/assets/images/backgrounds/wild_oliva_dark.png);
   background: none #222222;
 }
 footer a:hover,

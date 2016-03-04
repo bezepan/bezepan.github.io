@@ -20,12 +20,12 @@ permalink: /contato/
                          	<img src="/assets/images/benzepan_logo.png" width="130" height="90" alt="logo">
                               <address>
                               <strong></strong><br>
-                              Cosultar endereço<br>
-                              São Paulo, SP<br>
-                              <abbr title="Phone">Telefone:</abbr> (11) 1111-1111
+                              Rua João Lopes de Lima, n° 12<br>
+                              São Paulo, Sp<br>
+                              <abbr title="Phone">Telefone:</abbr> (11) 2018-0195
                               </address>
                               <address>
-                              <abbr title="Phone">Email:</abbr> <a href="mailto:#">email@email.com</a>
+                              <abbr title="Phone">Email:</abbr> <a href="mailto:dasivafnn@hotmail.com">dasivafnn@hotmail.com</a>
                               </address>
                          </div>
                     </div>
