@@ -31,15 +31,18 @@
            .show();
             form.reset();
       },
-      error: function() {
+        error: function() {
         $('#alert')
-           .text('Aconteceu algo de errado, tente novamente!')
-           .show();
-            form.reset();
+          .removeClass('alert-success')
+          .addClass('alert-danger')
+          .text('Ocorreu um erro ao enviar sua mensagem. Tente novamente mais tarde!')
+          .show();
+      },     complete: function() {
+        form.reset();
+        btnEnviar.button('reset');
       }
     });
   }
-
 
 })();
   

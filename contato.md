@@ -32,7 +32,7 @@ permalink: /contato/
                     <div class="contact_form col-sm-8 col-md-8">
 
 
-                         <form name="contact_form" id="contact_form" method="post">
+                         <form name="contact_form" id="contact_form">
                               <div class="row">
                                    <div class="col-sm-6 col-md-6">
                                         <label>Nome</label>
@@ -40,7 +40,7 @@ permalink: /contato/
                                    </div>
                                    <div class="col-sm-6 col-md-6">
                                         <label>E-mail</label>
-                                        <input type="email" name="email" id="email" class="form-control" type="text" value=""  placeholder="Digite seu email" required>
+                                        <input type="email" name="email" id="email" class="form-control" value=""  placeholder="Digite seu email" required>
                                    </div>
                               </div>
                               <div class="row">
@@ -59,7 +59,7 @@ permalink: /contato/
                                         
                                         <div id="alert" class="alert" role="alert"></div>
 
-                                   <input id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar"></button> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
+                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Envie sua mensagem</button> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
                               </div>
                               
                                   
