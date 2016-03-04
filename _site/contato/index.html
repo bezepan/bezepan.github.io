@@ -75,33 +75,39 @@
                     </div>
                     <div class="contact_form col-sm-8 col-md-8">
 
-                      <div id="alert" class="alert alert-danger" role="alert"></div>
 
                          <form name="contact_form" id="contact_form" method="post">
                               <div class="row">
                                    <div class="col-sm-6 col-md-6">
                                         <label>Nome</label>
-                                        <input name="name" id="name" class="form-control" type="text" value="" />
+                                        <input name="name" id="name" class="form-control" type="text" value="" placeholder="Digite seu nome" required="" />
                                    </div>
                                    <div class="col-sm-6 col-md-6">
                                         <label>E-mail</label>
-                                        <input name="email" id="email" class="form-control" type="text" value="" />
+                                        <input type="text" name="email" id="email" class="form-control" value="" placeholder="Digite seu email" required="" />
                                    </div>
                               </div>
                               <div class="row">
                                    <div class="col-sm-12 col-md-12">
                                         <label>Assunto</label>
-                                        <input name="subject" id="subject" class="form-control" type="text" />
+                                        <input name="subject" id="subject" class="form-control" type="text" placeholder="Digite um assunto" required="" />
                                    </div>
                               </div>
                               <div class="row">
                                    <div class="col-sm-12 col-md-12">
                                         <label>Messagem</label>
-                                        <textarea name="message" id="message" rows="8" class="form-control"></textarea>
+                                        <textarea name="message" id="message" rows="8" class="form-control" placeholder="Digite uma menssagem" required=""></textarea>
                                    </div>
+
                                    <div class="col-sm-12 col-md-12"><br />
-                                        <button id="submit_btn" class="btn btn-primary" type="submit" name=".btn-enviar">Enviar sua mensagem</button> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
+                                        
+                                        <div id="alert" class="alert" role="alert"></div>
+
+                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Enviar sua mensagem</button> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
                               </div>
+                              
+                                  
+
                          </form>
                     </div>
                </div>

@@ -20,12 +20,14 @@
       method: 'POST',
       dataType: 'json',
       data: {
-        nome: $(form).find('input[name="nome"]').val(),
+        nome: $(form).find('input[name="name"]').val(),
         email: $(form).find('input[name="email"]').val(),
-        mensagem: $(form).find('textarea[name="mensagem"]').val()
+        mensagem: $(form).find('textarea[name="message"]').val()
       },
       success: function() {
          $('#alert')
+           .removeClass('alert-danger')
+           .addClass('alert-success')
            .text('Obrigado! Recebi a sua mensagem!')
            .show();
             form.reset();
