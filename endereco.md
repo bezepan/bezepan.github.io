@@ -5,7 +5,7 @@ permalink: /endereco/
 <div class="container">
 	<div class="main">
 	<section class="hgroup">
-               <h1>Endereco</h1>
+               <h1>Endereço</h1>
       
                <ul class="breadcrumb pull-right">
                     <li><a href="/{{ site.baseurl }}">Home</a> </li>

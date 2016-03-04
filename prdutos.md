@@ -9,8 +9,8 @@ permalink: /produtos/
      <div class="container">
           <section class="hgroup">
                <h1>Produtos</h1>
-               <h2>Lorem ipsum dolor sit amet, in sollicitudin mi integer, class pulvinar congue, in metus suspendisse sed vitae dolor,   
-                    volutpat neque <strong> ornare nec, ac urna porttitor</strong>, Lorem ipsum dolor sit amet, in sollicitudin mi intege<strong>  class pulvinar congue</strong></a>.</h2>
+              <!-- <h2>Lorem ipsum dolor sit amet, in sollicitudin mi integer, class pulvinar congue, in metus suspendisse sed vitae dolor,   
+                    volutpat neque <strong> ornare nec, ac urna porttitor</strong>, Lorem ipsum dolor sit amet, in sollicitudin mi intege<strong>  class pulvinar congue</strong></a>.</h2>-->
                <ul class="breadcrumb pull-right">
                     <li><a href="/{{ site.baseurl }}">Home</a> </li>
                     <li class="active">Produtos</li>
@@ -35,12 +35,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pudim</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pudim de maracujá</a></h3>
                                    <p>Pudim</p>
                               </div>
                          </div>
@@ -52,12 +52,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Bolo de coco</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Bolo de coco</a></h3>
                                    <p>Bolo</p>
                               </div>
                          </div>
@@ -69,12 +69,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Croassaint!</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Croassaint</a></h3>
                                    <p>Salgado</p>
                               </div>
                          </div>
@@ -86,12 +86,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pão italiano</a></h3>
                                    <p>Pães</p>
                               </div>
                          </div>
@@ -103,12 +103,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a >Lorem Ipsum</a></h3>
+                                   <h3><a >Pão light</a></h3>
                                    <p>Pães</p>
                               </div>
                          </div>
@@ -120,12 +120,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pão italiano</a></h3>
                                    <p>Pães</p>
                               </div>
                          </div>
@@ -137,12 +137,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pão de leite</a></h3>
                                    <p>Paes</p>
                               </div>
                          </div>
@@ -154,12 +154,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pão integral</a></h3>
                                    <p>Paes</p>
                               </div>
                          </div>
@@ -171,13 +171,13 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
-                                   <p>Paes</p>
+                                   <h3><a>Pão integral</a></h3>
+                                   <p>Pães</p>
                               </div>
                          </div>
                     </div>
@@ -188,12 +188,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Rocambole</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Reocambole doce de leite</a></h3>
                                    <p>Rocambole</p>
                               </div>
                          </div>
@@ -205,12 +205,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Pão</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Pão de leite</a></h3>
                                    <p>Pães</p>
                               </div>
                          </div>
@@ -222,12 +222,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Description of the project dapibus, tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum....</p>
+                                        <p>Bolo</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Lorem Ipsum</a></h3>
+                                   <h3><a>Bolo</a></h3>
                                    <p>Bolo</p>
                               </div>
                          </div>
