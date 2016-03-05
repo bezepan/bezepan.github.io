@@ -25,7 +25,7 @@ permalink: /contato/
                               <abbr title="Phone">Telefone:</abbr> (11) 2018-0195
                               </address>
                               <address>
-                              <abbr title="Phone">Email:</abbr> <a href="mailto:dasivafnn@hotmail.com">dasivafnn@hotmail.com</a>
+                              <abbr title="Phone">Email:</abbr> <a href="mailto:dasivafnn@hotmail.com">dasilvafnn@hotmail.com</a>
                               </address>
                          </div>
                     </div>
@@ -59,7 +59,7 @@ permalink: /contato/
                                         
                                         <div id="alert" class="alert" role="alert"></div>
 
-                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Envie sua mensagem</button> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
+                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Envie sua mensagem</button> <span class="spinner"><i class="icon-refresh"></i></div>
                               </div>
                               
                                   
