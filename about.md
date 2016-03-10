@@ -6,31 +6,40 @@ permalink: /sobre/
 
 <section id="slider_wrapper" class="slider_wrapper full_page_photo">
      <div id="main_flexslider" class="flexslider">
-          <ul class="slides">
+        <ul class="slides">
                <li class="item" style="background-image: url(/assets/images/1.jpg)">
                     <div class="container">
                          <div class="carousel-caption">
-                              <h1>Venha experimentar o nosso <strong>pudim</strong> de
-                                  <strong>Maracujá</strong> !</h1>
-                              <p class="lead skincolored"><strong>Produto qualificado</strong> e <strong>perfeito para o seu café da tarde !</strong> venha conhecer a melhor padaria <strong>BEZEPAN</strong>.</p>
+                              <h1><strong>BEZEPAN PRÉ-MISTURA</strong> !</h1>
+                              <br>
+                              <p class="lead skincolored"><strong>Bolo de maracujá</strong></p>
                              </div>
                     </div>
                </li>
                <li class="item" style="background-image: url(/assets/images/2.jpg)">
                     <div class="container">
                          <div class="carousel-caption">
-                              <h1>Venha experimentar o nosso <strong>Bolo</strong> de
-                                  <strong>coco</strong> !</h1>
-                              <p class="lead skincolored"><strong>Produto qualificado</strong> e <strong>perfeito para o seu café da tarde !</strong> venha conhecer a melhor padaria <strong>BEZEPAN</strong>.</p>
+                               <h1><strong>BEZEPAN PRÉ-MISTURA</strong> !</h1>
+                               <br>     
+                              <p class="lead skincolored"><strong>pão</strong></p>
                          </div>
                     </div>
                </li>
                <li class="item" style="background-image: url(/assets/images/3.jpg)">
                     <div class="container">
                          <div class="carousel-caption">
-                              <h1 class="skincolored">Venha experimentar o melhor<strong> Croassaint</strong><br>
-                                  </h1>
-                              <p class="lead">Todos nosso produtos tem altíssima qualidade, <strong>Bezepan</strong> existe para agradar todos os nossos <strong>clientes</strong>!!!<br> </p>
+                              <h1><strong>BEZEPAN PRÉ-MISTURA</strong> !</h1>
+                               <br>     
+                              <p class="lead skincolored"><strong>Croassaint</strong></p><br>
+                         </div>
+                    </div>
+               </li>
+                 <li class="item" style="background-image: url(/assets/images/4.jpg)">
+                    <div class="container">
+                         <div class="carousel-caption">
+                               <h1><strong>BEZEPAN PRÉ-MISTURA</strong> !</h1>
+                               <br>     
+                              <p class="lead skincolored"><strong>Rocambole</strong></p>
                          </div>
                     </div>
                </li>
@@ -39,7 +48,7 @@ permalink: /sobre/
 </section>
 <div class="container">
 <section class="hgroup">
-               <!--<h2>Lorem Ipsun <strong>Lorem ipsum dolor sit amet</strong> nam sodales fringilla id natoque velit, nunc eros erat pretium rutrum tellus consectetuer, curabitur morbi eros egestas. Pharetra egestas sem erat vulputate sapien magna<a href="#">contained, plain style version</a></h2> -->
+              
                <ul class="breadcrumb pull-right">
                     <li><a href="/{{ site.baseurl }}">Home</a> </li>
                     <li class="active">Sobre</li>
@@ -47,11 +56,11 @@ permalink: /sobre/
 </section>
 <section class="article-text">
 
-     <h1>EM MANUTENÇÃO!!!!!</h1>
-              <!-- <div class="row">
+               <div class="row">
                     <div class="col-sm-8 col-md-8">
-                         <p>Lorem ipsum dolor sit amet, in sollicitudin mi integer, class pulvinar congue, in metus suspendisse sed vitae dolor, volutpat neque in id duis wisi in. Aliquam in tellus adipiscing ornare nec, ac urna porttitor in sed blandit aliquet, sed sagittis mauris. Amet at vestibulum tincidunt quis semper tristique. Dignissim sed lectus, urna proin. Turpis nam sodales fringilla id natoque velit, nunc eros erat pretium rutrum tellus consectetuer, curabitur morbi eros egestas. Pharetra egestas sem erat vulputate sapien magna, etiam iaculis vivamus ut lectus. Veritatis erat ac, tellus eu. </p>
-                         <p class="columns_2">Dolores felis urna amet. Eget purus id dui, egestas placerat gravida ultricies augue, vitae et, proin magna. Nulla duis, risus morbi adipiscing interdum interdum nec, turpis in enim feugiat litora. Torquent interdum ut lorem, luctus id porta porta, et nonummy lacus ut, nulla diam dui, nec nec. Auctor tellus ac, adipiscing pellentesque dui, sed dolor vel lorem ante tellus sagittis, torquent cras, interdum ac ultricies arcu tempus.</p>
+                         <p >Bezepan é uma indústria fabricante especializada em pré-misturas e aditivos para panificação e confeitaria, fundada em 2014. Tem como objetivo atender as amplas redes de padarias, lanchonetes, fast-foods e distribuidores do segmento. Iniciou suas atividades em São paulo, ampliando cada vez mais sua atuação em outros estados. </p>
+                         <p class="columns_2">Nós temos uma ampla variedade de pré-misturas para salgados, doces, linha integral, linha light, linha sem glutén, dentre outro. Na área de confeitaria contamos com pré-misturas para bolos secos e cremosos, coberturas, recheios, melhoradores de farinha, unta forma, fermento químico entre outros. Nossa meta é fidelizar sua marca no mercado, pelo alto padrão de qualidade de seus produtos proporcionando aos seus clientes satisfação, lucratividade e agilidade, atendendo a todas as exigências de seus clientes e parceiros.</p>
+                         <h2 class="text-center">Bezepan - Produtos para Panificação</h2>
                     </div>
                     <div class="col-sm-4 col-md-4">
                          <div class="service_teaser vertical">
@@ -59,9 +68,9 @@ permalink: /sobre/
                                    <figure style="background-image:url(/assets/images/1.jpg)"></figure>
                               </div>
                               <div class="service_details">
-                                   <h2 class="section_header skincolored"><b>Produto</b>Qualificado<small>Venha experimentar</small></h2>
+                                   <h2 class="section_header skincolored"><b>Produto</b>Qualificado</h2>
                                    <a class="btn btn-primary" href="/{{ site.baseurl }}contato">Entre em contato &nbsp; </a> </div>
                          </div>
                     </div>
-               </div>-->
+               </div>
           </section>
