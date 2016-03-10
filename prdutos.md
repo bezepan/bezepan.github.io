@@ -21,7 +21,6 @@ permalink: /produtos/
                     <li><a href="#" data-filter="*">Todos produtos</a></li>
                     <li><a href="#" data-filter=".cat_paes">Paẽs</a></li>
                     <li><a href="#" data-filter=".cat_bolo">Bolos</a></li>
-                    <li><a href="#" data-filter=".cat_pudim">Pudim</a></li>
                     <li><a href="#" data-filter=".cat_rocambole">Rocambole</a></li>
                     <li><a href="#" data-filter=".cat_salgado">Salgado</a></li>
                </ul>
@@ -35,13 +34,13 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Pudim</p>
+                                        <p>Bolo</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Pudim de maracujá</a></h3>
-                                   <p>Pudim</p>
+                                   <h3><a>Bolo de maracujá</a></h3>
+                                   <p>Bolo</p>
                               </div>
                          </div>
                     </div>
@@ -233,5 +232,10 @@ permalink: /produtos/
                          </div>
                     </div>
                </div>
+          </section>
+          <section>
+         
+              <a href="/{{ site.baseurl }}lista"><button class="btn btn-xlarge btn-block btn-primary">Lista de todos produtos</button></a>
+          
           </section>
      </div>
