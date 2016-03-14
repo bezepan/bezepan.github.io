@@ -68,12 +68,12 @@ permalink: /produtos/
                                         <path d="M 180,0 0,0 0,0 180,0 z"/>
                                    </svg>
                                    <figcaption>
-                                        <p>Croassaint!</p>
+                                        <p>Croissant!</p>
                                    </figcaption>
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Croassaint</a></h3>
+                                   <h3><a>Croissant</a></h3>
                                    <p>Salgado</p>
                               </div>
                          </div>
@@ -192,7 +192,7 @@ permalink: /produtos/
                               </figure>
                               </a>
                               <div class="portfolio_description">
-                                   <h3><a>Reocambole doce de leite</a></h3>
+                                   <h3><a>Rocambole doce de leite</a></h3>
                                    <p>Rocambole</p>
                               </div>
                          </div>
