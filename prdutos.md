@@ -21,8 +21,8 @@ permalink: /produtos/
                     <li><a href="#" data-filter="*">Todos produtos</a></li>
                     <li><a href="#" data-filter=".cat_paes">Paẽs</a></li>
                     <li><a href="#" data-filter=".cat_bolo">Bolos</a></li>
-                    <li><a href="#" data-filter=".cat_rocambole">Rocambole</a></li>
-                    <li><a href="#" data-filter=".cat_salgado">Salgado</a></li>
+                    <li><a href="#" data-filter=".cat_rocambole">Rocamboles</a></li>
+                    <li><a href="#" data-filter=".cat_salgado">Salgados</a></li>
                </ul>
           </section>
           <section class="portfolio_strict">
