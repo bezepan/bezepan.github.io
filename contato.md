@@ -59,13 +59,9 @@ permalink: /contato/
                                         
                                         <div id="alert" class="alert" role="alert"></div>
 
-                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Envie sua mensagem</button> <span class="spinner"><i class="icon-refresh"></i></div>
-                              </div>
-                              
-                                  
-
-                         </form>
+                                   <button id="btn-enviar" class="btn btn-primary" type="submit" name="btn-enviar">Envie sua mensagem</button>
+                        
                     </div>
                </div>
-          </section>
+       
     
